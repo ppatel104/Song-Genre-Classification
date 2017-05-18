@@ -1,0 +1,13 @@
+# Code for our Project on Music Genre Classification by Lyric Analysis 
+
+# DummyClassifier.ipynb: Prediction for Dummy Classfier
+# Feature Extraction - Word2Vec.ipynb: Extracting Word2Vec features
+# Feaeature Extraction - POS.ipynb: Extracting Parts of Speech features
+# GradBoosting.ipynb: Prediction for Grading Boosting Classifer
+# KNN.ipynb: Prediction for KNeighbors Classifer
+# MetroLyricsScrapper.ipynb: Code to scrap song information from MetroLyrics.com
+# Neural Network.ipynb: Prediction for MLP Classifer
+# PreProcessData - Sarthak.ipynb: Preprocessing code to remove undesired information from lyrics 
+# Prediction.ipynb: Contains F1 and Cross val predictions for RandomForest, Naive Bayes, Logistic Regression & more.
+# SongLyrics_Scrapper.ipynb: Code to scrap data from SongLyrics.com
+# TF-IDF-Purvank.ipynb: Extracting Tf-Idf similarity features 

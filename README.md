@@ -1,8 +1,12 @@
-# Song-Genre-Classification
-## Natural Language Processing Project
-## Song Genre Classification Based on Lyric Analysis
-## Team:
-### 1) Purvank Patel
-### 2) Sarthak Anand
-### 3) karthik Prakash
-## We have used different features such as tf-idf based cosine similarity, pos tags, and word2vec to classify songs into different genres based on their lyrics. We have tried Logistic Regression, Neural Network, SVM, KNN, Gradient Boosting, Random Forest, and Naive Bayes.
+# project-sarthak18593
+
+Link to Data:
+https://drive.google.com/open?id=0BzDpG-iUj7pnaW9oTm1QYjlud00
+
+# Introduction to the Project:
+
+Classification of music is a very important and heavily researched task in the field of NLP. Previous research in this field has focused on classifying music based on mood, genre, annotations, and artist. All the approaches either used audio features, lyric as text or both in combination. 
+
+Genre classification by lyrics is itself a clear Natural Language Processing problem. The end goal of NLP is to extract some sort of meaning from text. For music genre classification, this equates to finding features to classify music using lyrics. 
+
+There are a wide range of scholarly and commercial applications for automated music genre classifiers. For example, classifiers could be used to automatically analyze and sort music into large databases. Music recommendation systems could be used to automatically analyze a user’s likings and recommend appropriate songs to listen. Music classifier can be used to recommend music based on the mood of users. Similarity analysis which is a part of music 
